@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "116678508119",
+    "project_id": "rotiku-vsga",
+    "storage_bucket": "rotiku-vsga.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116678508119:android:174318f5203e989c422d12",
+        "android_client_info": {
+          "package_name": "com.example.rotiku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBo-yYmS4gg20oNX5OaHlflm8VPzkN6H4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
